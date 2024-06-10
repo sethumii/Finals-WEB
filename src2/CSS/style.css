@@ -79,7 +79,7 @@ main {
   background-repeat: no-repeat;
   background-position-x: right;
   background-image: linear-gradient(to bottom, transparent, rgba(255, 193, 7, 0.5)),
-    url("/img/tatang.png");
+    url("/src2/IMG/tatang.png");
   height: 510px;
 }
 
